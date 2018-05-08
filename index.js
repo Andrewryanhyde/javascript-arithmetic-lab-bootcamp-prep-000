@@ -30,8 +30,8 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  parseFloat(n, 10)
-  return n;
+  let b = parseFloat (n, 10)
+  return b;
 }
 
 
