@@ -29,11 +29,6 @@ function makeInt(n) {
 
 
 
-function preserveDecimal(n, 10) {
-  makeFloat(n) 
-  return n;
-}
-
 
 
 
